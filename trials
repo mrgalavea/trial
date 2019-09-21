@@ -722,7 +722,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAsAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",TMusic
 http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/ph0Oto.jpg" group-title="MUSIC",ZOOM
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAA0AGk/23jza8-o1wE/s60-p-no-il/ph0Oto.jpg" group-title="MUSIC",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8  
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAsAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
@@ -826,7 +826,7 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAsAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE", EDU 3 HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8 
 
-############################## LOKAL DAERAH 2 #############################
+############################## LOKAL DAERAH #############################
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agsus.jpg" group-title="LOKAL DAERAH",BERITA_SATU_HD 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agsus.jpg" group-title="LOKAL DAERAH",BERITA_SATU_WORLD 
