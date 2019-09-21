@@ -242,7 +242,7 @@ http://210.210.155.35/uq2663/h/h37/index2.m3u8
 http://pockettv.xyz/api/zee.m3u8?c=andflixhd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0b/Hits_TV_Asia_logo.jpg" group-title="Film",WOWOW MOVIES
 http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film",THRILL
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="Film",THRILL
 http://210.210.155.35/session/5fa607b4-c313-11e8-ac17-b82a72d63267/qwr9ew/s/s34/01.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="Film",STAR CHINESE MOVIES LEGEND
 http://iliketot.dyndns.tv/c8233976dbba4a06a101780907447375.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMjo1NzowOSBBTSZoYXNoX3ZhbHVlPXdtOTREeDJORTFpZDRYbjBnRHZrT0E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDkxMXx1cGxheXwxNTI4MjUzODI5fDIwMi4yOC40MS4xNDQ=
@@ -297,11 +297,11 @@ http://210.210.155.35/uq2663/h/h08/index.m3u8
 http://210.210.155.35/session/315760d4-7c81-11e8-ba87-b82a72d63267/qwr9ew/s/s42/index.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/805623069490364416/S08BM74i_400x400.jpg" group-title="KOREA", TVN MOVIE
 http://iptv-line.com:6969/master.280/change3kslpaks/32206
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KOREA",KBS WORLD
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAANNAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KOREA",KBS WORLD
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://www.freeetv.com/images/tv8/tvchosum.jpg"group-title="KOREA",CHOSUN
 http://live.chosun.gscdn.com/live/tvchosun1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KOREA",KTV
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAKKAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KOREA",KTV
 http://218.38.152.69:1935/da_live/72136989/mp4:ch001/playlist.m3u8
 
 
@@ -487,11 +487,11 @@ https://mmm.sportscore.biz/lba/123/g5/sportklub1rs.m3u8
 https://mmm.sportscore.biz/lba/123/g3/sk2serbia.m3u8
 #EXTINF:-1 tvg-logo="http://allsportstreamingtv.com/wp-content/uploads/2019/06/sk3hd-2-390x200.png"  group-title="Sport",SK 3
 https://mmm.sportscore.biz/lba/123/g8/rs3sk.m3u8
-#EXTINF:0 tvg-logo="http://www.mkc-law.com/wp-content/themes/mkc/images/mkc-logo.png" group-title="Sport",MKC SPORT 1
+#EXTINF:0 tvg-logo="http://www.mkc-law.com/wp-content/themes/mkc/imges/mkc-logo.png" group-title="Sport",SPORT 1
 https://mmm.sportscore.biz/lba/123/g6/mfootball1.m3u8
-#EXTINF:0 tvg-logo="http://www.mkc-law.com/wp-content/themes/mkc/images/mkc-logo.png" group-title="Sport",MKC SPORT 2
+#EXTINF:0 tvg-logo="http://www.mkc-law.com/wp-content/themes/mkc/imges/mkc-logo.png" group-title="Sport", SPORT 2
 https://mmm.sportscore.biz/lba/123/g2/rumatchf2.m3u8
-#EXTINF:0 tvg-logo="http://www.mkc-law.com/wp-content/themes/mkc/images/mkc-logo.png" group-title="Sport",MKC SPORT 3
+#EXTINF:0 tvg-logo="http://www.mkc-law.com/wp-content/themes/mkc/imes/mkc-logo.png" group-title="Sport", SPORT 3
 https://mmm.sportscore.biz/lba/123/g4/matfoot3.m3u8
 #EXTINF:-1 tvg-logo="https://d11p0alxbet5ud.cloudfront.net/Pictures/480xany/9/0/4/1296904_btsportimage2_13474.jpg" group-title="Sport", BT SPORT 1 HD
 https://mmm.sportscore.biz/lba/123/g2/btuk1.m3u8
@@ -598,7 +598,7 @@ http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports4
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports5
 #EXTINF:-1 tvg-logo="http://dz.heytv.org/wp-content/uploads/2019/02/abu_dhabi_sports2.jpg" group-title="Sport",Abu Dhabi Sports 6
 http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports6
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="Sport",Fight sport
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aOOs.jpg" group-title="Sport",Fight sport
 http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" group-title="Sport",MUTV
 https://d1wgyhp9evqv7n.cloudfront.net/hls/mutvpcweb/02.m3u8
@@ -722,7 +722,7 @@ http://161.0.157.5/PLTV/88888888/224/3221226825/index.m3u8
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:mixch/playlist.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAsAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",TMusic
 http://118.97.167.8/jhos/allegro.m3u8?stime=20180828230000&etime=20180829000000&encoded=0ccbf73b1c337c27949af
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",ZOOM
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/ph0Oto.jpg" group-title="MUSIC",ZOOM
 http://zoomweblive-lh.akamaihd.net/i/Zoom-TIL-WAP/Zoomweb_1@348071/master.m3u8  
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAAI/AAAAAAsAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="MUSIC",XLITE MUSIC
 http://highvolume03.streampartner.nl:1935/vleugels_hd4/livestream/playlist.m3u8
@@ -799,9 +799,9 @@ http://161.0.157.8/PLTV/88888888/224/3221226811/index.m3u8
 https://cdnbdsa1.useetv.com/joss/17/afc/chunklist_w691730122_b894100_sleng.m3u8
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/asgus.jpg" group-title="KNOWLEDGE",Foodie Channel
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:foodiee/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="KNOWLEDGE",Discovery Science
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/ag00s.jpg" group-title="KNOWLEDGE",Discovery Science
 http://app94395345.tk:8081/selcuksportsbelgesel/discoverysceince/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="KNOWLEDGE",Animal Planet
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/ags.jpg" group-title="KNOWLEDGE",Animal Planet
 https://dl.dropbox.com/s/i2af1p436yzvwo2/foxs1.m3u8?dl=0
 #EXTINF:0 tvg-logo="http://images2.useetv.com/logo_nhkworld_big.png" group-title="KNOWLEDGE",NHK World
 http://210.210.155.35/uq2663/h/h23/index1.m3u8
@@ -819,11 +819,11 @@ https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kodi-logo-Thumbnail-light-transparent.png",CBN
 http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAsAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE",MKC EDU 1 HD
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAsAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE", EDU 1 HD
 http://ivi.bupt.edu.cn/hls/hunanhd.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAsAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE",MKC EDU 2HD
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAsAAAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE",EDU 2HD
 http://ivi.bupt.edu.cn/hls/dfhd.m3u8
-#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAsAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE",MKC EDU 3 HD
+#EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAsAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE", EDU 3 HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8 
 
 ############################## LOKAL DAERAH #############################
@@ -853,7 +853,7 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatimsurabaya)/Stream(02)/ind
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjabarbandung)/Stream(02)/index.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aguss.jpg" group-title="LOKAL DAERAH",TVRI Jakarta 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIdki)/Stream(02)/index.m3u8 
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",TVRI Aceh 
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aOOgus.jpg" group-title="LOKAL DAERAH",TVRI Aceh 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIaceh)/Stream(02)/index.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aguss.jpg" group-title="LOKAL DAERAH",TVRI Medan 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumutmedan)/Stream(02)/index.m3u8 
@@ -871,13 +871,13 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsumsel)/Stream(02)/index.m3u8
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIlampung)/Stream(02)/index.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aguws.jpg" group-title="LOKAL DAERAH",TVRI Samarinda 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkaltimsamarinda)/Stream(02)/index.m3u8 
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",TVRI Makassar 
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agJJus.jpg" group-title="LOKAL DAERAH",TVRI Makassar 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIsulselmakasar)/Stream(02)/index.m3u8 
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",TVRI JAMBI 
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agusJ.jpg" group-title="LOKAL DAERAH",TVRI JAMBI 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjambi)/Stream(03)/index.m3u8 
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",TVRI JATENG SEMARANG 
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aguHJs.jpg" group-title="LOKAL DAERAH",TVRI JATENG SEMARANG 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIjatengsemarang)/Stream(03)/index.m3u8 
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",TVRI KALBAR 
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agOus.jpg" group-title="LOKAL DAERAH",TVRI KALBAR 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalbar)/Stream(03)/index.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agwus.jpg" group-title="LOKAL DAERAH",TVRI KALSEL BANJARMASIN 
 http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRIkalselbanjarmsn)/Stream(03)/index.m3u8 
@@ -930,13 +930,13 @@ http://jmc-live.ercdn.net/makkahtv/makkahtv.m3u8
 http://stream2.ninmedia.tv/live/xmedia-nabawitv.stream_nin/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agwus.jpg" group-title="LOKAL DAERAH",NADA MUSLIM TV 
 http://stream.aswajadev.com:8081/nadamuslim/stream/playlist.m3u8 
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",PULDAPII TV 
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agHUHus.jpg" group-title="LOKAL DAERAH",PULDAPII TV 
 http://178.128.49.255/mobile/web.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aguss.jpg" group-title="LOKAL DAERAH",NIAGA TV 
 http://119.235.249.58:1935/niagatv/live/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agsus.jpg" group-title="LOKAL DAERAH",NU CHANNEL 
 http://stream1.ninmedia.tv/live/xmedia-nuchannel.stream_nin/playlist.m3u8 
-#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agus.jpg" group-title="LOKAL DAERAH",BANTEN TV 
+#EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/aIIgus.jpg" group-title="LOKAL DAERAH",BANTEN TV 
 http://122.248.32.234:1935/ch22/myStream/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agsus.jpg" group-title="LOKAL DAERAH",REFORMED 21 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:reformedch/playlist.m3u8 
