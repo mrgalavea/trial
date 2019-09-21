@@ -826,7 +826,7 @@ http://ivi.bupt.edu.cn/hls/dfhd.m3u8
 #EXTINF:0 tvg-logo="https://lh3.googleusercontent.com/-WxFfxn3MBzU/AAAAAAAAAsAI/AAAAAAAAAGk/23jza8-o1wE/s60-p-no-il/photo.jpg" group-title="KNOWLEDGE", EDU 3 HD
 http://ivi.bupt.edu.cn/hls/jshd.m3u8 
 
-############################## LOKAL DAERAH #############################
+############################## LOKAL DAERAH 2 #############################
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agsus.jpg" group-title="LOKAL DAERAH",BERITA_SATU_HD 
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8 
 #EXTINF:-1  tvg-logo="http://www.geocities.ws/andriant/agsus.jpg" group-title="LOKAL DAERAH",BERITA_SATU_WORLD 
